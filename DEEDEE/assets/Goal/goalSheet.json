@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "goalSheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1540,
+				"h": 66
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Sea_texture1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 768,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 768,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 768,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Sea_texture2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 768,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 768,
+						"h": 64
+					},
+					"frame": {
+						"x": 771,
+						"y": 1,
+						"w": 768,
+						"h": 64
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c7c0ca3b8b4052232db6bed5cb69c915:c5530be70ca4ad452869218069869643:4ab135b9f95c15bef737e9450be42f6f$"
+	}
+}

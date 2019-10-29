@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "lavaRoad.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1540,
+				"h": 66
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lava_full.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 768,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 768,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 768,
+						"h": 64
+					}
+				},
+				{
+					"filename": "lava_full1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 768,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 768,
+						"h": 64
+					},
+					"frame": {
+						"x": 771,
+						"y": 1,
+						"w": 768,
+						"h": 64
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:824679bd6f118045c6f0ee43c22a4d51:42605830a644d242974e4fdd543c761d:54eac66f8c54eadeb75104c92feadbf0$"
+	}
+}
